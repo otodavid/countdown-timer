@@ -1,4 +1,4 @@
 A Frontend Mentor Challenge
 
-A simple launch countdown timer using tailwindcss and javascript
+A simple launch countdown timer using HTML, CSS and javascript
 
